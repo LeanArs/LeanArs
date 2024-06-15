@@ -1,6 +1,6 @@
 # Leandro Almeida
 
-<img src="https://github.com/LeanArs/LeanArs/assets/63979948/592248da-b415-49aa-8e62-a76849c375bc" alt="90scomputer" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://github.com/LeanArs/LeanArs/assets/63979948/592248da-b415-49aa-8e62-a76849c375bc" alt="90scomputer" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
 Oi! Meu nome é Leandro. Atualmente estou cursando o 6° semestre de Engenharia de Software pela Universidade de Brasília (UnB). Meu foco é desenvolvimento fullstack, além disso sou também um entusiasta da área de cybersecurity.
 </p>
@@ -13,7 +13,7 @@ Oi! Meu nome é Leandro. Atualmente estou cursando o 6° semestre de Engenharia 
 
 ### Que tal uma conversa?
 <p align="left">
-  <p>Podemos até mesmo tomar um café! Sinta-se a vontade para entrar em contato comigo por um dos meios abaixo:</p>
+  Sinta-se a vontade para entrar em contato comigo por um dos meios abaixo:</p>
   <a href="mailto:leo.leandro.ars@gmail.com" title="Gmail">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/leanars/" title="LinkedIn">
