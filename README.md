@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LeanArs/LeanArs/assets/63979948/592248da-b415-49aa-8e62-a76849c375bc" alt="90scomputer" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-Oi! Meu nome é Leandro. Atualmente estou cursando o 6° semestre de Engenharia de Software pela Universidade de Brasília (UnB). Meu foco é desenvolvimento fullstack, além disso sou também um entusiasta da área de cybersecurity.
+Oi! Meu nome é Leandro. Atualmente estou cursando o 8° semestre de Engenharia de Software pela Universidade de Brasília (UnB). Meu foco é desenvolvimento fullstack, além disso sou também um entusiasta da área de cybersecurity.
 </p>
 
 ### Tecnologias que utilizo:
